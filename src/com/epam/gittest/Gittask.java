@@ -1,6 +1,6 @@
 package com.epam.gittest;
 
-public class HelloWorld1 {
+public class Gittask {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
