@@ -4,6 +4,7 @@
 
 ### 1 create Github accaunt
 ### 2 create Github repository
-### 3 push/pull test
+### 3 kjhk
 ### 4 create branch
 ### 5 rollback test
+### 6 pull/merge request
