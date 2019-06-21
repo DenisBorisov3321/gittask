@@ -2,4 +2,5 @@
 
 ## By Denis 2019
 
-1123 testting
+### 1 create Github accaunt
+### 2 create Github repository
